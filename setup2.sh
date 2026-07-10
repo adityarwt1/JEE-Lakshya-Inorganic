@@ -98,4 +98,3 @@ pre(){
     mkdir $1;
     cp pdftoSlides.sh setup.sh $1;
 }
-
